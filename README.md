@@ -5,7 +5,7 @@
 - 📫 www.linkedin.com/in/raghu-ram-kuna-35a297255
 - ⚡ Fun fact: So, far i have done few projects
                . 🛻Logistics website
-               . 🎲 Dice game responsive 
+               
 
 <!---
 Ram-0808/Ram-0808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
